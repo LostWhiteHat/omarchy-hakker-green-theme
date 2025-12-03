@@ -1,0 +1,11 @@
+@define-color background-color #020007;
+@define-color border-color #00cc77;
+@define-color label #ccffee;
+@define-color image #ccffee;
+@define-color progress #00ff99;
+
+window#osd {
+  border-radius: 999px;
+  border: 1px solid @border-color;
+}
+
